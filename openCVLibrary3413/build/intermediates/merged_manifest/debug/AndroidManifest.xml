@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="spp.coursework.signrecognition"
+    android:versionCode="34130"
+    android:versionName="3.4.13" >
+
+    <uses-sdk android:minSdkVersion="24" />
+
+</manifest>
